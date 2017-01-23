@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_grouple"
+        android:orderInCategory="100"
+        android:title="@string/action_grouple"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_readmanga"
+        android:orderInCategory="100"
+        android:title="@string/action_readmanga"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_mintmanga"
+        android:orderInCategory="100"
+        android:title="@string/action_mintmanga"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="100"
+        android:title="@string/action_reload"
+        app:showAsAction="never"/>
+
+</menu>

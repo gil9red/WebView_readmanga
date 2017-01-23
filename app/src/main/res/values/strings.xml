@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WebView readmanga</string>
+
+    <string name="action_grouple">Grouple</string>
+    <string name="action_readmanga">Readmanga</string>
+    <string name="action_mintmanga">Mintmanga</string>
+    <string name="action_reload">Reload</string>
 </resources>
